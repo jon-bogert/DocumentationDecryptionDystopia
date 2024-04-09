@@ -1,0 +1,4 @@
+- [[Player Helper]] can hold an [[Enemy]] to freeze them
+- [[Enemy]] will be stunned for a short amount of time after input is released
+- [[Input: Grip & Trigger]]
+-

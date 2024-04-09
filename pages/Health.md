@@ -1,0 +1,4 @@
+- The player has a timed health-recovery system
+- Health will begin to recover after a short period of time wheen not taking damage
+- [[Health Effect]] as damage increases
+- [[Level]] wil be releaded on death after [[Death Animation]] displays

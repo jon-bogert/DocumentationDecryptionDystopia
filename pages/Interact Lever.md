@@ -1,0 +1,4 @@
+- tags:
+	- [[Interactables]]
+	- [[Player Character]]
+-

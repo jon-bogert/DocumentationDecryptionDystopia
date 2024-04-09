@@ -1,0 +1,5 @@
+- [[Input: Button B]]
+- [[Player Character]] can attack [[Enemy]]s using a Melee attack
+- Can combo up to 3 times before longer pause
+- tags:
+	- [[Combat]]

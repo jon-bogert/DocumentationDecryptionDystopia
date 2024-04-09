@@ -1,0 +1,2 @@
+- [[Input: Left Stick]]
+- [[Player Character]] can move and face any direction along the X & Z Axis of the world

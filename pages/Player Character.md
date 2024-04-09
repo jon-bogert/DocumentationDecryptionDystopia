@@ -1,0 +1,4 @@
+- Small 3rd person character that can be controlled by the player
+- Uses [[Humanoid Model]] with color Blue
+- tags:
+	- [[3rd Person Mechanics]]

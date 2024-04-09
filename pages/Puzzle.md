@@ -1,0 +1,10 @@
+- Player must collect a certain number of [[Key]]s to unlock the [[Locked Door]]
+- Ablities:
+	- [[Ability: Move]]
+	- [[Ability:  Move Environment]]
+	- [[Ability: Interact]]
+- Environmet Assets:
+	- [[Interact Lever]]
+	- [[Interact Button]]
+	- [[Pressure Plate]]
+	- [[Movable]]

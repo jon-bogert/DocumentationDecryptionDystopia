@@ -1,0 +1,7 @@
+- Desaturation of world
+- Increased Film Grain
+- Increased Chromatic Abberation
+- Distortion wavey veiw similar to heat ripple?
+- tags:
+	- [[Health]]
+	- [[Post Processing]]

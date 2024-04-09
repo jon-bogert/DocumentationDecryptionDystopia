@@ -1,0 +1,4 @@
+- Uses [[Humanoid Model]] with color red
+- Attacks [[Player Character]] using melee attacks
+- Seeks to [[Player Character]]
+- Affected by [[Ability: Freeze and Stun Enemies]]

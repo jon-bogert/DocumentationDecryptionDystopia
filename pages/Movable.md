@@ -1,0 +1,2 @@
+- Can be slided or rotated by the [[Ability:  Move Environment]]
+- Used to unblock and create paths for the [[Player Character]] to complete the [[Level]]'s [[Puzzle]]

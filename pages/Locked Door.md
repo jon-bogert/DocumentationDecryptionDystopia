@@ -1,0 +1,4 @@
+- Unlocked by [[Key]]s
+- Once unlocked [[Player Character]] can walk throught to end the [[Level]]
+- tags:
+	- [[Puzzle]]

@@ -1,0 +1,3 @@
+- Glowing projectile that damages [[Player Character]]
+- tags:
+	- [[Health]]

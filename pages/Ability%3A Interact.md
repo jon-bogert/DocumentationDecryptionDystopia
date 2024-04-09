@@ -1,0 +1,3 @@
+- [[Input: X Button]]
+- [[Player Character]] can interact with [[Interact Button]]s an [[Interact Lever]]s
+-

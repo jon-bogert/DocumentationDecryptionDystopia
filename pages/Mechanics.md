@@ -1,0 +1,3 @@
+- [[3rd Person Mechanics]]
+- [[1st Person Mechanics]]
+- [[Global Mechanics]]

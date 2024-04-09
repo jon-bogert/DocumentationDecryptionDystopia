@@ -1,0 +1,4 @@
+- Uses: [[Humanoid Model]] with colour Orange
+- Will aim at shoot [[Energy Ball]]s at [[Player Character]]
+- Rotates, but does not move
+- Affected by [[Ability: Freeze and Stun Enemies]]

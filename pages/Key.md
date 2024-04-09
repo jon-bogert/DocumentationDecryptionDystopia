@@ -1,0 +1,3 @@
+- Collectable item used to unlock [[Locked Door]]
+- tags:
+	- [[Puzzle]]

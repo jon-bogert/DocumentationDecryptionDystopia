@@ -1,0 +1,3 @@
+- [[Player Character]] can stand on this to change the environment
+- tags:
+	- [[Puzzle]]

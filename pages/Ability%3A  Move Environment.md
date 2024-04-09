@@ -1,0 +1,2 @@
+- [[Player Helper]] can move [[Movable]] objects in the environment to help solve puzzles
+- [[Input: Grip & Trigger]]

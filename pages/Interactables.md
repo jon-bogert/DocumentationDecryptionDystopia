@@ -1,0 +1,5 @@
+- Can be interacted with by the [[Player Character]] to make changes to the Environment
+- tags:
+	- [[Interact Lever]]
+	- [[Interact Button]]
+	- [[Ability: Interact]]
